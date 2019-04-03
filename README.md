@@ -1,2 +1,2 @@
 # git-intro
-Template Repository for git introductory lesson
+Ilona`s Repository for git introductory lesson.
